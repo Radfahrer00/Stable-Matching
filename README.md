@@ -25,6 +25,7 @@ Run the program:
 ```bash
 python stable_matching.py
 
+
 ## Customization
 To customize the input preferences for the hospitals and candidates, modify the prefer list in the stable_matching.py file. This list contains the preferences of hospitals and candidates, where the first N lists are the preferences of hospitals over candidates, followed by N lists of candidates' preferences over hospitals.
 
